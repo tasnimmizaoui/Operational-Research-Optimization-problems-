@@ -51,7 +51,7 @@ Both models are fully parameterized and user-friendly, allowing you to input dat
 📁 optimization-project/
 ├── facility_location.py       # FLP model and visualization
 ├── factory_planning.py        # FPP model with Gurobi
-├── app.py                     # Streamlit interface
+├── Home.py                     # Streamlit interface
 ├── data/                      # (Optional) Data samples or templates
 ├── requirements.txt           # Dependencies
 └── README.md                  # This file
@@ -84,7 +84,7 @@ Both models are fully parameterized and user-friendly, allowing you to input dat
 4. **Run the Streamlit app:**
 
    ```bash
-   streamlit run app.py
+   streamlit run Home.py
    ```
 
     
